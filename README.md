@@ -15,11 +15,11 @@ Key Insights from Sales Data Analysis
 
 Business Recommendations
 
-# Focus marketing efforts on high-performing regions and categories to maximize revenue growth.
+#Focus marketing efforts on high-performing regions and categories to maximize revenue growth.
 
-# Improve pricing or supplier costs for low-profit but high-volume products.
+#Improve pricing or supplier costs for low-profit but high-volume products.
 
-# Introduce targeted promotions in underperforming regions to balance sales distribution.
+#Introduce targeted promotions in underperforming regions to balance sales distribution.
 
 #Plan inventory based on seasonal demand patterns to avoid overstocking or shortages.
 
